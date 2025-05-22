@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1681657238 source:d:\tests ptojects\valeo test\main.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1690647418 source:d:\tests ptojects\binarysearchreview\main.c
+	<stdio.h>
+	<stdlib.h>
+

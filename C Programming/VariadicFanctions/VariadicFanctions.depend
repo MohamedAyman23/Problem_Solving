@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1667451853 source:d:\tests ptojects\variadicfanctions\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdarg.h>
+

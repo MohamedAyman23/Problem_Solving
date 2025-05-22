@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1664632848 source:d:\tests ptojects\enum2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

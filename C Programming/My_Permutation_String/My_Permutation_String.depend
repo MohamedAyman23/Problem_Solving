@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1667376456 source:d:\tests ptojects\my_permutation_string\main.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1733570413 source:d:\tests ptojects\macrofanction\main.c
+	<stdio.h>
+	<stdlib.h>
+

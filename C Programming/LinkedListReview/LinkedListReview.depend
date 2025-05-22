@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1584209020 source:d:\tests ptojects\linkedlistreview\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1690363461 source:d:\tests ptojects\linkedlistreview\linkedlist.c
+	"Linkedlist.h"
+	<stdio.h>
+
+1690363441 d:\tests ptojects\linkedlistreview\linkedlist.h
+

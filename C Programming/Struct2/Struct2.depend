@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1664293789 source:d:\tests ptojects\struct2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

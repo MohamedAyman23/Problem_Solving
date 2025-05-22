@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1690105431 source:d:\tests ptojects\queuearray\main.c
+	<stdio.h>
+	<stdlib.h>
+	"QueueArray.h"
+
+1665236210 source:d:\tests ptojects\queuearray\queuearray.c
+	"QueueArray.h"
+
+1665235071 d:\tests ptojects\queuearray\queuearray.h
+	"Platform_Types.h"
+
+1665230186 d:\tests ptojects\queuearray\platform_types.h
+

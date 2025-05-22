@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1693638263 source:d:\tests ptojects\vowerstring\main.c
+	<assert.h>
+	<ctype.h>
+	<limits.h>
+	<math.h>
+	<stdbool.h>
+	<stddef.h>
+	<stdint.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1665071248 source:d:\tests ptojects\stackarray2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Stack.h"
+
+1665071687 d:\tests ptojects\stackarray2\stack.h
+	"patformS_Types.h"
+
+1665071757 d:\tests ptojects\stackarray2\patforms_types.h
+
+1665071248 source:d:\tests ptojects\stackarray2\stack.c
+	"Stack.h"
+

@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1686994264 source:d:\tests ptojects\externtests\motor.c
+	"motor.h"
+
+1687015226 d:\tests ptojects\externtests\motor.h
+
+1687085421 source:d:\tests ptojects\externtests\main.c
+	<stdio.h>
+	<stdlib.h>
+	"motor.h"
+

@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1665505920 source:d:\tests ptojects\queue\main.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+
+1665505920 source:d:\tests ptojects\queue\linkedlist.c
+	"LinkedList.h"
+
+1665506583 d:\tests ptojects\queue\linkedlist.h
+	"Std_Types.h"
+
+1665505920 d:\tests ptojects\queue\std_types.h
+
+1665750172 source:d:\tests ptojects\singlelinkedlist\main.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+
+1665750162 d:\tests ptojects\singlelinkedlist\linkedlist.h
+	"Std_Types.h"
+	<stdio.h>
+
+1665505920 d:\tests ptojects\singlelinkedlist\std_types.h
+
+1665750152 source:d:\tests ptojects\singlelinkedlist\linkedlist.c
+	"LinkedList.h"
+

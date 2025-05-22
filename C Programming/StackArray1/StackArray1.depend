@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1665060608 source:d:\tests ptojects\stackarray1\stack.c
+	"Stack.h"
+
+1665059603 d:\tests ptojects\stackarray1\stack.h
+	"Platform_Types.h"
+
+1665055164 d:\tests ptojects\stackarray1\platform_types.h
+
+1665060195 source:d:\tests ptojects\stackarray1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Stack.h"
+

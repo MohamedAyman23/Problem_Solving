@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1689954930 source:d:\tests ptojects\stackdmemoryallocationreview\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Stack.h"
+
+1689948976 source:d:\tests ptojects\stackdmemoryallocationreview\stack.c
+	"Stack.h"
+
+1689947075 d:\tests ptojects\stackdmemoryallocationreview\stack.h
+

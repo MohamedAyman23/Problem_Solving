@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1667117770 source:d:\tests ptojects\hackrranktesting4\main.c
+	<stdio.h>
+	<stdlib.h>
+

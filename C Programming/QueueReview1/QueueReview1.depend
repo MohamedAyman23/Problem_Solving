@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1690022197 source:d:\tests ptojects\queuereview1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Queue.h"
+
+1690104255 source:d:\tests ptojects\queuereview1\queue.c
+	"Queue.h"
+
+1690018272 d:\tests ptojects\queuereview1\queue.h
+

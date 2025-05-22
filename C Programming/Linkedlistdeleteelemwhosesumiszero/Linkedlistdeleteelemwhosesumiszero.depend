@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1690380097 source:d:\tests ptojects\linkedlistdeleteelemwhosesumiszero\main.c
+	<stdio.h>
+	<stdlib.h>
+

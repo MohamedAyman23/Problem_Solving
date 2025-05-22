@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1689437707 source:d:\tests ptojects\review1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1689423973 source:d:\tests ptojects\review1\motor.c
+	<stdio.h>
+

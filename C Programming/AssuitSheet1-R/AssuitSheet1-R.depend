@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1691589639 source:d:\tests ptojects\assuitsheet1-r\main.c
+	<stdio.h>
+	<stdlib.h>
+

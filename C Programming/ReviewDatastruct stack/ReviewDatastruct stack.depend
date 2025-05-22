@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1689939470 source:d:\tests ptojects\reviewdatastruct stack\main.c
+	<stdio.h>
+	<stdlib.h>
+	"stack.h"
+
+1689939284 d:\tests ptojects\reviewdatastruct stack\stack.h
+
+1689939399 source:d:\tests ptojects\reviewdatastruct stack\stack.c
+	"stack.h"
+

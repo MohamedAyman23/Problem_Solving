@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1663852483 source:d:\tests ptojects\pointer5\main.c
+	<stdio.h>
+	<stdlib.h>
+	"PN532.h"
+
+1663852267 d:\tests ptojects\pointer5\network.h
+
+1663852244 source:d:\tests ptojects\pointer5\network.c
+	"Network.h"
+
+1663852626 d:\tests ptojects\pointer5\pn532.h
+
+1663852244 source:d:\tests ptojects\pointer5\pn532.c
+	"PN532.h"
+

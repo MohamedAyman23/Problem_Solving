@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1690710705 source:d:\tests ptojects\selectionsortreview\main.c
+	<stdio.h>
+	<stdlib.h>
+

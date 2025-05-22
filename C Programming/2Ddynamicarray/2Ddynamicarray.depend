@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1689571253 source:d:\tests ptojects\2ddynamicarray\main.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1664364484 source:d:\tests ptojects\typdef2\main.c
+	<stdio.h>
+	<stdlib.h>
+

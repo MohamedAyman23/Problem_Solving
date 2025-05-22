@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1665844928 source:d:\tests ptojects\doublelinkedlist\main.c
+	<stdio.h>
+	<stdlib.h>
+	"DLinkedList.h"
+
+1665844867 source:d:\tests ptojects\doublelinkedlist\dlinkedlist.c
+	"DLinkedList.h"
+
+1665840176 d:\tests ptojects\doublelinkedlist\dlinkedlist.h
+	<stdio.h>
+
