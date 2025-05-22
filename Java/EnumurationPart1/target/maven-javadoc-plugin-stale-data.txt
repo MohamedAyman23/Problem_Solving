@@ -1,0 +1,41 @@
+-J-Duser.language=
+-J-Duser.country=
+@options
+@packages
+-encoding
+'UTF-8'
+-protected
+--release
+23
+-sourcepath
+'D:/JavaProjects/EnumurationPart1/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2025. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'D:/JavaProjects/EnumurationPart1/target/reports/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'EnumurationPart1 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'EnumurationPart1 1.0-SNAPSHOT API'
+newclass.enumuration
+D:\JavaProjects\EnumurationPart1\src\main\java = 1746962591468
+D:\JavaProjects\EnumurationPart1\target\reports\apidocs\allclasses-index.html = 1747130511924
+D:\JavaProjects\EnumurationPart1\target\reports\apidocs\allpackages-index.html = 1747130511928
+D:\JavaProjects\EnumurationPart1\target\reports\apidocs\element-list = 1747130511835
+D:\JavaProjects\EnumurationPart1\target\reports\apidocs\help-doc.html = 1747130511984
+D:\JavaProjects\EnumurationPart1\target\reports\apidocs\index-all.html = 1747130511971
+D:\JavaProjects\EnumurationPart1\target\reports\apidocs\index.html = 1747130511978
+D:\JavaProjects\EnumurationPart1\target\reports\apidocs\member-search-index.js = 1747130511936
+D:\JavaProjects\EnumurationPart1\target\reports\apidocs\module-search-index.js = 1747130511931
+D:\JavaProjects\EnumurationPart1\target\reports\apidocs\overview-tree.html = 1747130511903
+D:\JavaProjects\EnumurationPart1\target\reports\apidocs\package-search-index.js = 1747130511933
+D:\JavaProjects\EnumurationPart1\target\reports\apidocs\search.html = 1747130511975
+D:\JavaProjects\EnumurationPart1\target\reports\apidocs\tag-search-index.js = 1747130511956
+D:\JavaProjects\EnumurationPart1\target\reports\apidocs\type-search-index.js = 1747130511935

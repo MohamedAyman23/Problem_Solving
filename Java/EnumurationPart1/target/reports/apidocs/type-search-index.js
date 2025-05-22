@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"newclass.enumuration","l":"Main"},{"p":"newclass.enumuration","l":"WeekDays"}];updateSearchResults();
