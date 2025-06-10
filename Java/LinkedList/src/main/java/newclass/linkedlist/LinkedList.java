@@ -27,6 +27,5 @@ public class LinkedList {
             System.out.println(n.value);
             n = n.next;
         }
-        
     }
 }

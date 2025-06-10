@@ -8,6 +8,7 @@ package newclass.linkedlist;
 /**
  *
  * @author Mohammed Ayman
+ * @param <T>
  */
 public class Node <T>{
     T value;
