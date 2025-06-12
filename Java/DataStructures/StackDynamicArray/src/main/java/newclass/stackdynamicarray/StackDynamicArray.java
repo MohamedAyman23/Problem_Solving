@@ -37,6 +37,10 @@ public class StackDynamicArray <T> {
     
     public void display(){
         int top = Top;
+        if(isEmpty()){
+            System.out.println("The stack is empty");
+            return;
+        }
         while(top != -1){
             System.out.println(StackD_Array[top]);
             --top;
