@@ -26,5 +26,7 @@ public class Main {
        sa.display();
        sa.push(120);
        sa.push(130);
+       System.out.println(sa.pop());
+       System.out.println(sa.pop());
     }
 }
