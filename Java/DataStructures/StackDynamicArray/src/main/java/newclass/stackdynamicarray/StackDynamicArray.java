@@ -53,8 +53,8 @@ public class StackDynamicArray <T> {
     }
     
     private void ensureCapacity(int minCapacity){
-        int oldCapacity = this.StackD_Array.length;
-        if(minCapacity > oldCapacity){
+        int oldCapacity = (this.StackD_Array.length );
+        if(minCapacity >= oldCapacity){
             int newCapacity = oldCapacity * 2;
             if(newCapacity < minCapacity)
                 newCapacity = minCapacity;

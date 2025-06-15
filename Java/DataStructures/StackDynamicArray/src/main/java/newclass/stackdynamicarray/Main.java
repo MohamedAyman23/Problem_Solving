@@ -20,6 +20,7 @@ public class Main {
         Sd.push(40);
         Sd.push(50);
         Sd.display();
+        Sd.push(60);
         
     }
 }
