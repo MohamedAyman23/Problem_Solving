@@ -13,7 +13,7 @@ import java.util.Arrays;
  */
 public class StackDynamicArray <T> {
     private final int size;
-    Object StackD_Array[];
+    private Object StackD_Array[];
     private int Top;
     
     public StackDynamicArray(int size){
@@ -22,7 +22,8 @@ public class StackDynamicArray <T> {
         this.Top = -1;
     }
     public void push(T newItem){
-       ensureCapacity(++Top);
+       ensureCapacity(Top + 1);
+       ++Top;
        this.StackD_Array[Top] = newItem;
     }
     public T pop(){
@@ -53,9 +54,14 @@ public class StackDynamicArray <T> {
     }
     
     private void ensureCapacity(int minCapacity){
-        int oldCapacity = (this.StackD_Array.length );
+        int oldCapacity = (this.StackD_Array.length);
         if(minCapacity >= oldCapacity){
             int newCapacity = oldCapacity * 2;
+            if(newCapacity < minCapacity)
+                newCapacity = minCapacity;
+            StackD_Array = Arrays.copyOf(StackD_Array, newCapacity);
+        }else if(minCapacity < (oldCapacity / 2)){
+            int newCapacity = (oldCapacity / 2);
             if(newCapacity < minCapacity)
                 newCapacity = minCapacity;
             StackD_Array = Arrays.copyOf(StackD_Array, newCapacity);
